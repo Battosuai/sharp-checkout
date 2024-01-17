@@ -1,0 +1,26 @@
+{
+    "name": "sharp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "greyscale": "node greyscale",
+        "tint": "node tint",
+        "metadata": "node metadata",
+        "rotate": "node rotate",
+        "resize": "node resize",
+        "format": "node format",
+        "crop": "node crop",
+        "composite": "node composite",
+        "blur": "node blur",
+        "sharpen": "node sharpen",
+        "flip": "node flip",
+        "addText": "node addText"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "sharp": "^0.33.2"
+    }
+}
